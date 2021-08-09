@@ -1,2 +1,2 @@
-go build -o voaenglish
-./vaoenglish
+web: go build -o voaenglish
+web: ./vaoenglish
