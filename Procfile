@@ -1,1 +1,2 @@
-go run .
+go build -o voaenglish
+./vaoenglish
