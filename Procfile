@@ -1,2 +1,2 @@
-web: go build -o voaenglish
-web: ./vaoenglish
+web: go build
+web: ./my-video-server
