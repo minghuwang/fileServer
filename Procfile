@@ -1,2 +1,1 @@
-web: go build
-web: ./my-video-server
+web: go run .
