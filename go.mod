@@ -1,3 +1,3 @@
-module my-video-server
+module wmh/my-video-server
 
 go 1.16
